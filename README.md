@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">### 📬 Connect with me
+<p align="left">📬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:YOUR_EMAIL_ADDRESS)
