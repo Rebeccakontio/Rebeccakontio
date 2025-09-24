@@ -8,6 +8,7 @@
 - 🤝 I’m looking for **Internship**
 
 - 📫 How to reach me **kontiorebecca@gmail.com**
+- 🌐 [View My Portfolio](https://react-portfolio-gold-eight.vercel.app/) 
 
 
 <h3 align="left">Connect with me:</h3>
