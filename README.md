@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying my last year software engineering and project developement in Turku University of Applied Sciences
 - ⚡  I enjoy building both websites and mobile applications, and I sometimes work on UI designs as well. I am passionate about building responsive, high performing and user-friendly web services. I want to be proficient in latest technologies and continuously expand my skill set.
-- 🌱 I’m currently learning **Node.js, Redux, Webback**
+- 🌱 I’m currently learning **Node.js, Express and Redux**
 
 - 🤝 I’m looking for **Internship**
 
